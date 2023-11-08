@@ -1,0 +1,14 @@
+
+
+# git init
+# git add .
+# git commit -m "Message Goes Here"
+# git status
+# git log (Hit 'q' to exit)
+# git checkout (unique commit id)
+
+Git Commands...
+# git remote add origin (url)
+# git remote -v
+# git push origin master
+# git pull origin master
